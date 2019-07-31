@@ -1,0 +1,32 @@
+.App {
+  width: 100%;
+}
+.ula{
+  margin: 0 auto;
+  width: 100%;
+    list-style: none;
+    /* display: block; */
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: -2.6rem;
+    text-align: center;
+    /* 边框的阴影 位置与颜色 */
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.12);
+}
+.lia{
+  width: 20%;
+  
+}
+
+.lia img:nth-child(2){
+  display: none;
+}
+a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.8rem;
+    font-weight: 400;
+}
+
+
